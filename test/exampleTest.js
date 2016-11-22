@@ -1,5 +1,4 @@
-const assert = require('assert');
-const expect = require('chai').expect
+const expect = require('chai').expect;
 
 describe('Example Test', () => {
   it('simple test', () => {
