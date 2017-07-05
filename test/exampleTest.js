@@ -1,7 +1,7 @@
-const expect = require('chai').expect;
+const equal = require('assert').equal;
 
 describe('Example Test', () => {
   it('simple test', () => {
-    expect(1).to.equal(1);
+    equal(1, 1);
   });
 });
